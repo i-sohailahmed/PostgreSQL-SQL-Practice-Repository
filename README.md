@@ -248,46 +248,6 @@ By completing this practice project, I gained hands-on experience in:
 
 ---
 
-#  Key SQL Concepts Practiced
-
-✔ Database Creation
-
-✔ Table Creation
-
-✔ CRUD Operations
-
-✔ Constraints
-
-✔ Filtering
-
-✔ Sorting
-
-✔ String Functions
-
-✔ Aggregate Functions
-
-✔ Date Functions
-
-✔ GROUP BY
-
-✔ HAVING
-
-✔ Joins
-
-✔ UNION
-
-✔ Subqueries
-
-✔ EXISTS
-
-✔ Window Functions
-
-✔ Ranking Functions
-
-✔ Analytical Functions
-
----
-
 #  Author
 
 **Sohail**
